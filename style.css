@@ -1,0 +1,12 @@
+table{
+    background-color:aquamarine;
+    
+}
+
+th{
+    color: crimson;
+}
+h2{
+    text-decoration: inherit;
+    color: navy;
+}
